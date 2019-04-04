@@ -1,2 +1,3 @@
 # rfid-lockbox
-A lockbox to store keys that is based on Raspberry Pi. 
+
+A lockbox based on Raspberry Pi. Lock/Unlock by tapping the staff id card to RFID reader.
