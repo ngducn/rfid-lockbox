@@ -5,9 +5,9 @@ import time
 
 import RPi.GPIO as GPIO
 
-server = "192.168.1.109"
-user = "sa"
-password = "Password1"
+server = "111.111.1.111"
+user = "username"
+password = "password"
 
 stop = None
 card = str()
